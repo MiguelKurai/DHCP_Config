@@ -27,6 +27,7 @@ El primer comando hará que no se active cuando se inicie el sistema, y el segun
 ![](imagenes/networkInterfaces1.png)
 
 ![](imagenes/networkInterfaces2.png)
+
 2. Luego editaremos el fichero /etc/default/isc-dhcp-server para indicar cuál de las tarjetas será la que se ejecutará como servidor DHCP
 ![](imagenes/defaultIsc1.png)
 
