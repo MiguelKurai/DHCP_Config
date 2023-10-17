@@ -42,7 +42,7 @@ El primer comando hará que no se active cuando se inicie el sistema, y el segun
 
 ![](imagenes/dns2.png)
 
-4. Por último, configuramos el fichero /etc/dhcp/dehcpd.conf, en el cuál indicaremos que el servidor usará failover. Es importante, al introducir las direcciones ip, que sean las de las redes internas y no las de los adaptadores puente.
+4. Por último, configuramos el fichero /etc/dhcp/dehcpd.conf, en el cuál indicaremos que el servidor usará failover. Es importante, al introducir las direcciones ip, que sean las de las redes internas y no las de los adaptadores puente. En este paso, la segunda máquina está puesta como el failover principal.
 
 ![](imagenes/failover1.png)
 
