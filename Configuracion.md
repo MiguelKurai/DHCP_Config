@@ -1,6 +1,6 @@
 ## Preparación de la máquina
 Lo primero que debemos hacer es confifurar ambas máquinas servidor para que tengan una interfaz de red como adaptador puente y una segunda interfaz como red interna, ambas en modo promiscuo "permitir todo"
-![](imagenes/adaptadorPuente)
+![](imagenes/adaptadorPuente.png)
 ![](imagenes/redInterna.png)
 
 ## Actualización del Sistema
