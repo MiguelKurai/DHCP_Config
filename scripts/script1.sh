@@ -12,7 +12,7 @@ apt upgrade -y
 apt install isc-dhcp-server -y
 
 # Cambiamos la configuración del fichero /etc/default/isc-dhcp-server
-bash -c 'cat << EOF > /etc/default/isc-shcp-server
+bash -c 'cat << EOF > /etc/default/isc-dhcp-server
 # On what interfaces should the DHCP server (dhcpd) serve DHCP requests?
 # Separate multiple interfaces with spaces, e.g. "eth0 eth1".
 INTERFACESv4="enp0s8"
