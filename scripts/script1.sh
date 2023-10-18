@@ -86,4 +86,4 @@ systemctl restart networking
 systemctl restart isc-dhcp-server
 
 #FIN
-echo "Se han realizado todas las tareas y el servidor ha sido configurado"
+echo "Se ha configurado el servidor"
