@@ -1,3 +1,3 @@
 Aquí están los scripts para configurar ambos servidores:
-- [Servidor primario](scripts/script1.sh)
-- [Servidor secundario](scripts/script2.sh)
+- [Servidor primario](/script1.sh)
+- [Servidor secundario](script2.sh)
